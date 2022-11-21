@@ -1,0 +1,1 @@
+Django Secret Key Generator: https://django-secret-key-generator.netlify.app/
